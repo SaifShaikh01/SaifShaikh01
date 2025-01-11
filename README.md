@@ -1,4 +1,4 @@
-![logo](https://github.com/SaifShaikh786/SaifShaikh786/blob/mai/hfnatq8ysypiutounrad.jpg)
+![logo](hfnatq8ysypiutounrad.jpg)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;I'm+Saif+Shaikh!;Welcome+to+My+GitHub+Profile!" />
 </h1>

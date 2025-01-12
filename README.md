@@ -78,8 +78,8 @@ Projects Display Coming Soon! *[GitHub Repositories](https://github.com/saifShai
 </p>
 
 ### *📊 Stats*
-![saifshaikh786's Stats](https://github-readme-stats.vercel.app/api?username=saifshaikh786&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
-![saifshaikh01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifshaikh01&theme=chartreuse-dark&hide_border=false)
+![saifshaikh01's Stats](https://github-readme-stats.vercel.app/api?username=saifshaikh01&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saifshaikh01&theme=chartreuse-dark)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />

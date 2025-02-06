@@ -34,7 +34,7 @@
 </p>
 
 ### *👨‍💻 Explore My Projects*  
-Projects Display Coming Soon! *[GitHub Repositories](https://github.com/saifShaikh786?tab=repositories)
+ Showcase Of My Projects [My Projects](https://github.com/SaifShaikh01/Projects)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
